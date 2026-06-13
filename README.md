@@ -1,4 +1,4 @@
-# understanding-vit
+# understanding_vit
 
 A step-by-step implementation of the Vision Transformer (ViT) from scratch using PyTorch,
 following *An Image is Worth 16x16 Words* (Dosovitskiy et al., 2020).
